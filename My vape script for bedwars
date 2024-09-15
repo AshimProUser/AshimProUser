@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.comAshimScripts/bumt1/vape/main/lite", true))()
